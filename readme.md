@@ -3,5 +3,7 @@
 
 - [1.1 Вводное занятие, обеспечение воспроизводимости (19.09.2025)](Lectures/Lecture%201)
 - [1.2 Работа в Colab и Jupyter Notebook (19.09.2025)](Lectures/Lecture%202)
-- [1.3 Numpy, Pandas (26.09.2024)](Lectures/Lecture%203)
-- [1.4 Визуализация (26.09.2024)](Lectures/Lecture%204)
+- [1.3 Numpy, Pandas (26.09.2025)](Lectures/Lecture%203)
+- [1.4 Визуализация (26.09.2025)](Lectures/Lecture%204)
+- [1.5 EDA (03.10.2025)](Lectures/Lecture%205)
+- [1.6 Типология задач в ML, метрики классификации/регрессии (03.10.2025)](Lectures/Lectures%206)
