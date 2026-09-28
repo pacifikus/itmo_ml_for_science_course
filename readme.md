@@ -2,3 +2,4 @@
 
 
 - [1.1 Вводное занятие, типология задач в ML (21.09.2025)](Lectures/Lecture%201)
+- [1.2 Работа в Colab. Numpy, Pandas (25.09.2025)](Lectures/Lecture%202)
