@@ -5,3 +5,4 @@
 - [1.2 Работа в Colab. Numpy, Pandas (25.09.2026)](Lectures/Lecture%202)
 - [1.3 Визуализация: matplotlib, seaborn. Визуальный сторителлинг и антипаттерны визуализации. (28.09.2026)](Lectures/Lecture%203)
 - [1.4 EDA (02.10.2026)](Lectures/Lecture%204)
+- [1.5 Метрики классификации (05.10.2026)](Lectures/Lecture%205)
