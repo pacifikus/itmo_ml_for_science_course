@@ -10,3 +10,6 @@ uv.lock
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+
+# Data files    
+data/
