@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+venv/
+env/
+pyproject.toml
+uv.lock
+.python-version
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
